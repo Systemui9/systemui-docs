@@ -32,7 +32,7 @@ You can convert a pull request to a draft at any time. For example, if you accid
 4. Click **Convert to draft**.
   ![Convert to draft confirmation](/assets/images/help/pull_requests/convert-to-draft-dialog.png)
 
-{% endif %}
+{% endif %} 
 
 ### Further reading
 
